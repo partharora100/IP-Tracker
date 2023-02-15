@@ -1,0 +1,32 @@
+:root {
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Rubik", sans-serif;
+}
+
+.heading-1 {
+  font-size: 3.6rem;
+  text-align: center;
+  color: white;
+  margin-top: 4rem;
+}
+
+.heading-2 {
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  color: gray;
+}
+
+.heading-3 {
+  font-size: 2rem;
+  font-weight: 500;
+  color: black;
+  line-height: 1.2;
+}
